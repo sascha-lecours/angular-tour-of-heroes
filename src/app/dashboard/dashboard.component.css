@@ -36,9 +36,6 @@
 	min-width: 120px;
 	background-color: #3f525c;
 	border-radius: 2px;
-	
-	max-width: 60%;
-	margin: auto;
   }
   .module:hover {
 	background-color: #eee;
@@ -64,3 +61,10 @@
 	  min-width: 60px;
 	}
   }
+  
+  
+  /*
+  Copyright Google LLC. All Rights Reserved.
+  Use of this source code is governed by an MIT-style license that
+  can be found in the LICENSE file at http://angular.io/license
+  */
